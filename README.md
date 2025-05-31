@@ -42,6 +42,3 @@ I focus on implementing research-level systems with clean and modular code, ofte
 
 ---
 
-
-
-Thanks for stopping by!
