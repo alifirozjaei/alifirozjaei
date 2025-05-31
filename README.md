@@ -43,6 +43,5 @@ I focus on implementing research-level systems with clean and modular code, ofte
 ---
 
 
-> “Turning research into code, and code into impact.”
 
 Thanks for stopping by!
