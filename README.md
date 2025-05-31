@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ali Laghary Firozjaei
+# 👋 Hi, I'm Ali L Firozjaei
 
 🎓 AI Researcher | 💻 ML & Blockchain Engineer | 📱 iOS Developer | 🧠 Graph Neural Networks Enthusiast
 
