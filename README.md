@@ -40,5 +40,3 @@ I focus on implementing research-level systems with clean and modular code, ofte
 </div>
 
 
----
-
