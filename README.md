@@ -13,8 +13,8 @@ I focus on implementing research-level systems with clean and modular code, ofte
 - **Graph Neural Networks (GNNs)**: Temporal GNNs, EGAT, GCN, GAT, GraphSAGE, GraphSMOTE  
 - **Blockchain Analysis**: Illicit transaction detection, money laundering identification  
 - **Deep Learning**: PyTorch, PyTorch Geometric, Transformers, CNNs, RNNs  
-- **Computer Vision**: Segmentation, OCR, wrestler detection, OpenCV pipelines  
-- **iOS Development**: Swift, UIKit, Xcode for mobile applications  
+- **Computer Vision**: Segmentation, OCR 
+- **iOS Development**: Swift, SwiftUI, Xcode for mobile applications  
 - **NLP & LLM Tools**: Subtitle translation, Persian RTL formatting, prompt engineering  
 
 ---
@@ -29,7 +29,6 @@ I focus on implementing research-level systems with clean and modular code, ofte
 ## 📫 Connect With Me
 
 - 🔗 [LinkedIn – Ali Laghary Firozjaei](https://www.linkedin.com/in/ali-laghary-firozjaei/)
-- 📧 Email: ali.firozjaei@gmail.com  
 
 ---
 
