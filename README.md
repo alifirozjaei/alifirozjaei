@@ -36,7 +36,7 @@ I focus on implementing research-level systems with clean and modular code, ofte
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifirozjaei&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="45%" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifirozjaei&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="50%" height="200"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifirozjaei&count_private=true&theme=vision-friendly-dark" alt="GitHub Streak" width="50%" height="200"/>
 
