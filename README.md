@@ -32,6 +32,15 @@ I focus on implementing research-level systems with clean and modular code, ofte
 
 ---
 
+## 📊 GitHub Stats & Language Overview
+
+<div align="center">
+  <img width="40%" align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifirozjaei&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="50%" align="right" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=alifirozjaei&count_private=true&theme=vision-friendly-dark">
+</div>
+
+---
+
 > “Turning research into code, and code into impact.”
 
 Thanks for stopping by!
